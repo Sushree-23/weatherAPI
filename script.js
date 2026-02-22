@@ -28,5 +28,4 @@ async function getWeather() {
   } catch (error) {
     alert("Error fetching weather data");
   }
-
 }
